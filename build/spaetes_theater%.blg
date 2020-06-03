@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'spaetes_theater%.blg'
+[65] biber:322> INFO - === Mi Jun  3, 2020, 21:15:42
+[165] Utils.pm:309> ERROR - Cannot find 'spaetes_theater%.bcf'!
+[165] Biber.pm:132> INFO - ERRORS: 1
