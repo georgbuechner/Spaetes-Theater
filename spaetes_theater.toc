@@ -1,0 +1,68 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Spielsetting}{2}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Zeitalter und Gefolgenheiten}{2}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Einladung für die Teilis/ grund der Zusammenkunft}{2}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Plot}{3}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Events}{4}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Präsentation}{4}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Glücksspiel}{4}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Gruppen}{5}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Die Liebes Afäre}{5}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Seduction}{5}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Politische Intrigen}{5}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Gruppe 4}{5}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Charactere}{6}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Figuren}{6}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Mögliche Charaktere}{6}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Characterbeschreibungen}{6}{section.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.1}Nietzsche}{6}{subsection.6.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Hintergrundgeschichte}{6}{subsection.6.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Beziehungen}{6}{subsection.6.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Psychologie}{6}{subsection.6.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Deine Ziele}{6}{subsection.6.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}OT-Mechanismen}{7}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Regeln}{8}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Schießt euch nicht ab}{8}{section.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Orga}{9}{chapter.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}OT-Raum}{9}{section.9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Random Ideen}{10}{chapter.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Genres}{11}{chapter.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}Lerninhalte}{12}{chapter.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.1}Sozial Media}{12}{section.12.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.2}Warum Briefe}{12}{section.12.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.3}Antisemitismus und die Protokolle der Weisen von Zion}{12}{section.12.3}%
