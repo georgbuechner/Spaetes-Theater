@@ -1,9 +1,9 @@
 [0] Config.pm:304> INFO - This is Biber 2.14 (beta)
 [0] Config.pm:307> INFO - Logfile is 'spaetes_theater.blg'
-[65] biber:322> INFO - === Do Jun 25, 2020, 19:15:38
-[76] Biber.pm:415> INFO - Reading 'spaetes_theater.bcf'
-[126] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
-[130] Utils.pm:293> WARN - The file 'spaetes_theater.bcf' does not contain any citations!
-[139] bbl.pm:652> INFO - Writing 'spaetes_theater.bbl' with encoding 'UTF-8'
-[139] bbl.pm:755> INFO - Output to spaetes_theater.bbl
-[139] Biber.pm:128> INFO - WARNINGS: 1
+[60] biber:322> INFO - === Do Jun 25, 2020, 21:25:13
+[71] Biber.pm:415> INFO - Reading 'spaetes_theater.bcf'
+[120] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[124] Utils.pm:293> WARN - The file 'spaetes_theater.bcf' does not contain any citations!
+[129] bbl.pm:652> INFO - Writing 'spaetes_theater.bbl' with encoding 'UTF-8'
+[129] bbl.pm:755> INFO - Output to spaetes_theater.bbl
+[129] Biber.pm:128> INFO - WARNINGS: 1
