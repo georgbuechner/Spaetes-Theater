@@ -5,9 +5,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Spielsetting}{2}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Zeitalter und Gefolgenheiten}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.1}Zeitalter und Gepflogenheiten}{2}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Einladung für die Teilis/ grund der Zusammenkunft}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Einladung für die Teilnehmenden/ Grund der Zusammenkunft}{2}{section.2.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Plot}{3}{chapter.3}%
 \defcounter {refsection}{0}\relax 
@@ -35,43 +35,49 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}Seduction}{6}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Backkgroundstory}{6}{section.5.2}%
+\contentsline {subsubsection}{Backgroundstory}{6}{section.5.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Ziel}{6}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Hinweise für uns }{7}{section.5.2}%
+\contentsline {subsubsection}{Hinweise für uns }{6}{section.5.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}Politische Intrigen}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Backkgroundstory}{7}{section.5.3}%
+\contentsline {subsubsection}{Backgroundstory}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Ziel}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Hinweisee für uns}{7}{section.5.3}%
+\contentsline {subsubsection}{Hinweise für uns}{7}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Hinweise für uns}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.4}Weltherrschaft}{7}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Backgroundstroy}{7}{section.5.4}%
+\contentsline {subsubsection}{Backgroundstory}{7}{section.5.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Ziel}{7}{section.5.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Hinweise für uns}{7}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Charactere}{8}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Charaktere}{8}{chapter.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Figuren der Verannstaltung}{8}{section.6.1}%
+\contentsline {section}{\numberline {6.1}Figuren der Veranstaltung}{8}{section.6.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.2}Mögliche Gast-Charaktere}{8}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Schriftsteller}{8}{section.6.2}%
+\contentsline {subsubsection}{Schriftsteller:innen}{8}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Wissennschaftler}{8}{section.6.2}%
+\contentsline {subsubsection}{Wissenschaftler*innen}{8}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{K"unstler}{9}{section.6.2}%
+\contentsline {subsubsection}{Künstler:innen}{9}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Aktivist:innen}{9}{section.6.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Andere Charaktere}{9}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Characterbeschreibungen}{9}{section.6.3}%
+\contentsline {subsubsection}{Politische Figuren}{9}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Charakterbeschreibungen}{9}{section.6.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}OT-Mechanismen}{10}{chapter.7}%
 \defcounter {refsection}{0}\relax 
