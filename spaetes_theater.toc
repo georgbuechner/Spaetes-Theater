@@ -1,117 +1,118 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
 \defcounter {refsection}{0}\relax 
-\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Spielsetting}{2}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Spielsetting}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Zeitalter und Gepflogenheiten}{2}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Zeitalter und Geflogenheiten}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Einladung für die Teilnehmenden/ Grund der Zusammenkunft}{2}{section.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Einladung f\IeC {\"u}r die Teilis/ grund der Zusammenkunft}{2}{section.2.2}
+\contentsline {chapter}{\numberline {3}Plot}{3}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Plot}{3}{chapter.3}
+\contentsline {section}{\numberline {3.1}Ronja}{3}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Ronja}{3}{section.3.1}
+\contentsline {section}{\numberline {3.2}Tristan}{3}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Tristan}{3}{section.3.2}
+\contentsline {chapter}{\numberline {4}Events}{5}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Events}{5}{chapter.4}
+\contentsline {section}{\numberline {4.1}Präsentation}{5}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Pr\IeC {\"a}sentation}{5}{section.4.1}
+\contentsline {section}{\numberline {4.2}Tanzen}{5}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Tanzen}{5}{section.4.2}
+\contentsline {section}{\numberline {4.3}Glücksspiel}{5}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Gl\IeC {\"u}cksspiel}{5}{section.4.3}
+\contentsline {chapter}{\numberline {5}Gruppen}{6}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Gruppen}{6}{chapter.5}
+\contentsline {section}{\numberline {5.1}Die Liebes Affäre}{6}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Die Liebes Aff\IeC {\"a}re}{6}{section.5.1}
+\contentsline {subsubsection}{Backgroundstory}{6}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Backgroundstory}{6}{section.5.1}
+\contentsline {subsubsection}{Hinweise für uns}{6}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Hinweise f\IeC {\"u}r uns}{6}{section.5.1}
+\contentsline {subsubsection}{Ziel}{6}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ziel}{6}{section.5.1}
+\contentsline {section}{\numberline {5.2}Seduction}{6}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Seduction}{6}{section.5.2}
+\contentsline {subsubsection}{Backgroundstory}{6}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Backgroundstory}{6}{section.5.2}
+\contentsline {subsubsection}{Ziel}{6}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ziel}{6}{section.5.2}
+\contentsline {subsubsection}{Hinweise für uns }{6}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Hinweise f\IeC {\"u}r uns }{7}{section.5.2}
+\contentsline {section}{\numberline {5.3}Politische Intrigen}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Politische Intrigen}{7}{section.5.3}
+\contentsline {subsubsection}{Backgroundstory}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Backgroundstory}{7}{section.5.3}
+\contentsline {subsubsection}{Ziel}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ziel}{7}{section.5.3}
+\contentsline {subsubsection}{Hinweise für uns}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Hinweise f\IeC {\"u}r uns}{7}{section.5.3}
+\contentsline {subsubsection}{Hinweise für uns}{7}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Weltherrschaft}{7}{section.5.4}
+\contentsline {section}{\numberline {5.4}Weltherrschaft}{7}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Backgroundstory}{7}{section.5.4}
+\contentsline {subsubsection}{Backgroundstory}{7}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ziel}{7}{section.5.4}
+\contentsline {subsubsection}{Ziel}{7}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Hinweise f\IeC {\"u}r uns}{7}{section.5.4}
+\contentsline {subsubsection}{Hinweise für uns}{7}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Charaktere}{8}{chapter.6}
+\contentsline {chapter}{\numberline {6}Charaktere}{8}{chapter.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Figuren der Veranstaltung}{8}{section.6.1}
+\contentsline {section}{\numberline {6.1}Figuren der Veranstaltung}{8}{section.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}M\IeC {\"o}gliche Gast-Charaktere}{8}{section.6.2}
+\contentsline {section}{\numberline {6.2}Mögliche Gast-Charaktere}{8}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Schriftsteller:innen}{8}{section.6.2}
+\contentsline {subsubsection}{Schriftsteller:innen}{8}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Wissennschaftler:innen}{8}{section.6.2}
+\contentsline {subsubsection}{Wissenschaftler*innen}{8}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{K\IeC {\"u}nstler:innen}{9}{section.6.2}
+\contentsline {subsubsection}{Künstler:innen}{9}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Aktivist:innen}{9}{section.6.2}
+\contentsline {subsubsection}{Aktivist:innen}{9}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Andere Charaktere}{9}{section.6.2}
+\contentsline {subsubsection}{Andere Charaktere}{9}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Politische Figuren}{9}{section.6.2}
+\contentsline {subsubsection}{Politische Figuren}{9}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Charakterbeschreibungen}{9}{section.6.3}
+\contentsline {section}{\numberline {6.3}Charakterbeschreibungen}{9}{section.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}OT-Mechanismen}{10}{chapter.7}
+\contentsline {chapter}{\numberline {7}OT-Mechanismen}{10}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Regeln}{11}{chapter.8}
+\contentsline {chapter}{\numberline {8}Regeln}{11}{chapter.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Schie\IeC {\ss }t euch nicht ab}{11}{section.8.1}
+\contentsline {section}{\numberline {8.1}Schießt euch nicht ab}{11}{section.8.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Orga}{12}{chapter.9}
+\contentsline {chapter}{\numberline {9}Orga}{12}{chapter.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.1}bridges}{12}{section.9.1}
+\contentsline {section}{\numberline {9.1}bridges}{12}{section.9.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}OT-Raum}{12}{section.9.2}
+\contentsline {section}{\numberline {9.2}OT-Raum}{12}{section.9.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}Random Ideen}{13}{chapter.10}
+\contentsline {chapter}{\numberline {10}Random Ideen}{13}{chapter.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}Briefing}{14}{chapter.11}
+\contentsline {chapter}{\numberline {11}Briefing}{14}{chapter.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {12}Genres}{15}{chapter.12}
+\contentsline {chapter}{\numberline {12}Genres}{15}{chapter.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {13}Lerninhalte}{16}{chapter.13}
+\contentsline {chapter}{\numberline {13}Lerninhalte}{16}{chapter.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.1}Links zu (strukturellem) Antisemitismus}{16}{section.13.1}
+\contentsline {section}{\numberline {13.1}Links zu (strukturellem) Antisemitismus}{16}{section.13.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}Sozial Media}{16}{section.13.2}
+\contentsline {section}{\numberline {13.2}Sozial Media}{16}{section.13.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.3}Warum Briefe}{16}{section.13.3}
+\contentsline {section}{\numberline {13.3}Warum Briefe}{16}{section.13.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.4}Antisemitismus und die Protokolle der Weisen von Zion}{16}{section.13.4}
+\contentsline {section}{\numberline {13.4}Antisemitismus und die Protokolle der Weisen von Zion}{16}{section.13.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {14}Reflexion}{17}{chapter.14}
+\contentsline {chapter}{\numberline {14}Reflexion}{17}{chapter.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.1}Kurzes Debriefing}{17}{section.14.1}
+\contentsline {section}{\numberline {14.1}Kurzes Debriefing}{17}{section.14.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.2}Stumme Diskussion}{17}{section.14.2}
+\contentsline {section}{\numberline {14.2}Stumme Diskussion}{17}{section.14.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.3}Reflexionstreffen}{17}{section.14.3}
+\contentsline {section}{\numberline {14.3}Reflexionstreffen}{17}{section.14.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {15}Material}{18}{chapter.15}
+\contentsline {chapter}{\numberline {15}Material}{18}{chapter.15}%
