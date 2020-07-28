@@ -1,3 +1,2 @@
-*.aux
-spaetes_theater.pdf
-*.log
+spaetes_theater*
+!spaetes_theater.tex
